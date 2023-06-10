@@ -1,11 +1,12 @@
 <hr>
 <h1 align="center">AHOY! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"width="30px"> I'm Shital Nehete</h1>
 <h3 align="center">Web & Software Developer || Machine Learning Enthusiast</h3>
+
 <p align="center">
-<a href="https://www.linkedin.com/in/shitalnehete/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="astrohere" height="30" width="40" /></a>
-<a href="https://twitter.com/ShitalNehete" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Divyansh ojha" height="30" width="40" /></a>
-<a href="https://www.instagram.com/shitalnehete_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Divyansh ojha" height="30" width="40" /></a>
-<a href = "mailto: shital.nehete@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
+<div class="background: white;"> <a href="https://www.linkedin.com/in/shitalnehete/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="astrohere" height="30" width="40" /></a> </div>
+<div class="background: white;"> <a href="https://twitter.com/ShitalNehete" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Divyansh ojha" height="30" width="40" /></a> </div>
+<div class="background: white;"> <a href="https://www.instagram.com/shitalnehete_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Divyansh ojha" height="30" width="40" /></a> </div>
+<div class="background: white;"> <a href = "mailto: shital.nehete@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a> </div>
 </p>
 
 
@@ -21,7 +22,7 @@
   <br>
 </p>
 
-<img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
+<img align="right" width=400px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***LITTLE ABOUT MYSELF***
 
