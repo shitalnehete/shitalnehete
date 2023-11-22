@@ -12,7 +12,7 @@
 
 <p align="center">
   <em>
-    Shital here, a <b>graduate</b> staudent at <a href="https://www.usc.edu/"> <b>University of Southern California</b>, Los Angeles, CA </a>. <br>
+    Shital here, a <b>graduate</b> student at <a href="https://www.usc.edu/"> <b>University of Southern California</b>, Los Angeles, CA </a>. <br>
     A budding <b>Full-Stack Software Developer & Machine Learning enthusiast,</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> <br>who is <b>obsessed</b>
     with the idea of <b>improving</b> herself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
